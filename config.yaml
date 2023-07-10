@@ -3,3 +3,5 @@ data:
   undata_clean: "../data/cleaned/undata_cleaned.csv"
   production: "..data/cleaned/production.csv"
   undata_for_analysis: "../data/cleaned/undata_for_analysis.csv"
+  smard_production: "../data/raw/production_smard_2017_2022.csv"
+  smard_consumption: "../data/raw/consumption_smard_2017_2022.csv"
