@@ -1,0 +1,248 @@
+country_or_area,commodity_transaction,year,quantity_GWh
+Germany,Electricity - Gross production,2020,572666.0
+Germany,Electricity - Gross production,2019,606917.0
+Germany,Electricity - Gross production,2018,640468.0
+Germany,Electricity - Gross production,2017,653723.0
+Germany,From combustible fuels – Main activity,2020,250205.0
+Germany,From combustible fuels – Main activity,2019,281896.0
+Germany,From combustible fuels – Main activity,2018,331660.0
+Germany,From combustible fuels – Main activity,2017,348797.0
+Germany,From combustible fuels – Main activity – CHP plants,2020,82309.0
+Germany,From combustible fuels – Main activity – CHP plants,2019,84463.0
+Germany,From combustible fuels – Main activity – CHP plants,2018,86873.0
+Germany,From combustible fuels – Main activity – CHP plants,2017,93293.0
+Germany,From combustible fuels – Main activity – Electricity plants,2020,167896.0
+Germany,From combustible fuels – Main activity – Electricity plants,2019,197433.0
+Germany,From combustible fuels – Main activity – Electricity plants,2018,244787.0
+Germany,From combustible fuels – Main activity – Electricity plants,2017,255504.0
+Germany,Geothermal – Main activity,2020,231.0
+Germany,Geothermal – Main activity,2019,197.0
+Germany,Geothermal – Main activity,2018,178.0
+Germany,Geothermal – Main activity,2017,163.0
+Germany,Geothermal – Main activity – Electricity plants,2020,231.0
+Germany,Geothermal – Main activity – Electricity plants,2019,197.0
+Germany,Geothermal – Main activity – Electricity plants,2018,178.0
+Germany,Geothermal – Main activity – Electricity plants,2017,163.0
+Germany,Hydro – Main activity,2020,24786.0
+Germany,Hydro – Main activity,2019,25573.0
+Germany,Hydro – Main activity,2018,23776.0
+Germany,Hydro – Main activity,2017,25983.0
+Germany,Nuclear – Main activity,2020,64382.0
+Germany,Nuclear – Main activity,2019,75071.0
+Germany,Nuclear – Main activity,2018,76005.0
+Germany,Nuclear – Main activity,2017,76324.0
+Germany,Nuclear – Main activity – Electricity plants,2020,64382.0
+Germany,Nuclear – Main activity – Electricity plants,2019,75071.0
+Germany,Nuclear – Main activity – Electricity plants,2018,76005.0
+Germany,Nuclear – Main activity – Electricity plants,2017,76324.0
+Germany,From other sources – Main activity,2020,559.0
+Germany,From other sources – Main activity,2019,567.0
+Germany,From other sources – Main activity,2018,482.0
+Germany,From other sources – Main activity,2017,585.0
+Germany,From other sources – Main activity – CHP plants,2020,361.0
+Germany,From other sources – Main activity – CHP plants,2019,406.0
+Germany,From other sources – Main activity – CHP plants,2018,330.0
+Germany,From other sources – Main activity – CHP plants,2017,417.0
+Germany,From other sources – Main activity – Electricity plants,2020,198.0
+Germany,From other sources – Main activity – Electricity plants,2019,161.0
+Germany,From other sources – Main activity – Electricity plants,2018,152.0
+Germany,From other sources – Main activity – Electricity plants,2017,168.0
+Germany,Of which: Pumped hydro – Main activity,2020,6554.0
+Germany,Of which: Pumped hydro – Main activity,2019,5940.0
+Germany,Of which: Pumped hydro – Main activity,2018,6169.0
+Germany,Of which: Pumped hydro – Main activity,2017,6005.0
+Germany,Solar – Main activity,2020,48641.0
+Germany,Solar – Main activity,2019,44383.0
+Germany,Solar – Main activity,2018,43459.0
+Germany,Solar – Main activity,2017,39401.0
+Germany,Solar photovoltaic – Main activity,2020,48641.0
+Germany,Solar photovoltaic – Main activity,2019,44383.0
+Germany,Solar photovoltaic – Main activity,2018,43459.0
+Germany,Solar photovoltaic – Main activity,2017,39401.0
+Germany,Wind – Main activity,2020,132102.0
+Germany,Wind – Main activity,2019,125894.0
+Germany,Wind – Main activity,2018,109951.0
+Germany,Wind – Main activity,2017,105693.0
+Germany,From combustible fuels – Autoproducer,2020,50652.0
+Germany,From combustible fuels – Autoproducer,2019,52318.0
+Germany,From combustible fuels – Autoproducer,2018,53785.0
+Germany,From combustible fuels – Autoproducer,2017,55489.0
+Germany,From combustible fuels – Autoproducer – CHP plants,2020,34168.0
+Germany,From combustible fuels – Autoproducer – CHP plants,2019,34872.0
+Germany,From combustible fuels – Autoproducer – CHP plants,2018,35002.0
+Germany,From combustible fuels – Autoproducer – CHP plants,2017,39015.0
+Germany,From combustible fuels – Autoproducer – Electricity plants,2020,16484.0
+Germany,From combustible fuels – Autoproducer – Electricity plants,2019,17446.0
+Germany,From combustible fuels – Autoproducer – Electricity plants,2018,18783.0
+Germany,From combustible fuels – Autoproducer – Electricity plants,2017,16474.0
+Germany,Hydro – Autoproducer,2020,90.0
+Germany,Hydro – Autoproducer,2019,98.0
+Germany,Hydro – Autoproducer,2018,87.0
+Germany,Hydro – Autoproducer,2017,172.0
+Germany,From other sources – Autoproducer,2020,1018.0
+Germany,From other sources – Autoproducer,2019,920.0
+Germany,From other sources – Autoproducer,2018,1085.0
+Germany,From other sources – Autoproducer,2017,1116.0
+Germany,From other sources – Autoproducer – CHP plants,2020,258.0
+Germany,From other sources – Autoproducer – CHP plants,2019,173.0
+Germany,From other sources – Autoproducer – CHP plants,2018,206.0
+Germany,From other sources – Autoproducer – CHP plants,2017,485.0
+Germany,From other sources – Autoproducer – Electricity plants,2020,760.0
+Germany,From other sources – Autoproducer – Electricity plants,2019,747.0
+Germany,From other sources – Autoproducer – Electricity plants,2018,879.0
+Germany,From other sources – Autoproducer – Electricity plants,2017,631.0
+Germany,Electricity - net production,2020,544894.0
+Germany,Electricity - net production,2019,575864.0
+Germany,Electricity - net production,2018,605651.0
+Germany,Electricity - net production,2017,619053.0
+Germany,Electricity - imports,2020,47853.0
+Germany,Electricity - imports,2019,40126.0
+Germany,Electricity - imports,2018,31727.0
+Germany,Electricity - imports,2017,27842.0
+Germany,Electricity - exports,2020,66882.0
+Germany,Electricity - exports,2019,72793.0
+Germany,Electricity - exports,2018,80463.0
+Germany,Electricity - exports,2017,80301.0
+Germany,Electricity - Energy industries own use,2020,10240.0
+Germany,Electricity - Energy industries own use,2019,11028.0
+Germany,Electricity - Energy industries own use,2018,12415.0
+Germany,Electricity - Energy industries own use,2017,12365.0
+Germany,Electricity - Own use by coal mines,2020,45.0
+Germany,Electricity - Own use by coal mines,2019,57.0
+Germany,Electricity - Own use by coal mines,2018,568.0
+Germany,Electricity - Own use by coal mines,2017,503.0
+Germany,Electricity - Own use by oil and gas extraction,2020,501.0
+Germany,Electricity - Own use by oil and gas extraction,2019,540.0
+Germany,Electricity - Own use by oil and gas extraction,2018,541.0
+Germany,Electricity - Own use by oil and gas extraction,2017,609.0
+Germany,Electricity - Own use by coke ovens,2020,257.0
+Germany,Electricity - Own use by coke ovens,2019,280.0
+Germany,Electricity - Own use by coke ovens,2018,320.0
+Germany,Electricity - Own use by coke ovens,2017,293.0
+Germany,Electricity - Own use by briquetting plants,2020,3647.0
+Germany,Electricity - Own use by briquetting plants,2019,4176.0
+Germany,Electricity - Own use by briquetting plants,2018,4919.0
+Germany,Electricity - Own use by briquetting plants,2017,4852.0
+Germany,Electricity - Own use by oil refineries,2020,5790.0
+Germany,Electricity - Own use by oil refineries,2019,5975.0
+Germany,Electricity - Own use by oil refineries,2018,6067.0
+Germany,Electricity - Own use by oil refineries,2017,6108.0
+Germany,Electricity - Own use by pump-storage plants,2020,8872.0
+Germany,Electricity - Own use by pump-storage plants,2019,8180.0
+Germany,Electricity - Own use by pump-storage plants,2018,8445.0
+Germany,Electricity - Own use by pump-storage plants,2017,8252.0
+Germany,"Electricity - Own use by electricity, heat and CHP plants",2020,27772.0
+Germany,"Electricity - Own use by electricity, heat and CHP plants",2019,31053.0
+Germany,"Electricity - Own use by electricity, heat and CHP plants",2018,34817.0
+Germany,"Electricity - Own use by electricity, heat and CHP plants",2017,34670.0
+Germany,Electricity - Losses,2020,26939.0
+Germany,Electricity - Losses,2019,27474.0
+Germany,Electricity - Losses,2018,26661.0
+Germany,Electricity - Losses,2017,27024.0
+Germany,Electricity - Final energy consumption,2020,479814.0
+Germany,Electricity - Final energy consumption,2019,496515.0
+Germany,Electricity - Final energy consumption,2018,509394.0
+Germany,Electricity - Final energy consumption,2017,518953.0
+Germany,"Electricity - Consumption by manufacturing, construction and non-fuel industry",2020,211089.0
+Germany,"Electricity - Consumption by manufacturing, construction and non-fuel industry",2019,223267.0
+Germany,"Electricity - Consumption by manufacturing, construction and non-fuel industry",2018,230724.0
+Germany,"Electricity - Consumption by manufacturing, construction and non-fuel industry",2017,232227.0
+Germany,Electricity - Consumption by iron and steel,2020,22203.0
+Germany,Electricity - Consumption by iron and steel,2019,24372.0
+Germany,Electricity - Consumption by iron and steel,2018,26341.0
+Germany,Electricity - Consumption by iron and steel,2017,26695.0
+Germany,Electricity - Consumption by chemical and petrochemical,2020,51129.0
+Germany,Electricity - Consumption by chemical and petrochemical,2019,52708.0
+Germany,Electricity - Consumption by chemical and petrochemical,2018,53566.0
+Germany,Electricity - Consumption by chemical and petrochemical,2017,54219.0
+Germany,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2020,137757.0
+Germany,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2019,146187.0
+Germany,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2018,150817.0
+Germany,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2017,151313.0
+Germany,Electricity - Consumption by non-ferrous metals,2020,15074.0
+Germany,Electricity - Consumption by non-ferrous metals,2019,15265.0
+Germany,Electricity - Consumption by non-ferrous metals,2018,15785.0
+Germany,Electricity - Consumption by non-ferrous metals,2017,16276.0
+Germany,Electricity - Consumption by non-metallic minerals,2020,12174.0
+Germany,Electricity - Consumption by non-metallic minerals,2019,12492.0
+Germany,Electricity - Consumption by non-metallic minerals,2018,12701.0
+Germany,Electricity - Consumption by non-metallic minerals,2017,12751.0
+Germany,Electricity - Consumption by transport equipment,2020,13909.0
+Germany,Electricity - Consumption by transport equipment,2019,16978.0
+Germany,Electricity - Consumption by transport equipment,2018,17747.0
+Germany,Electricity - Consumption by transport equipment,2017,17781.0
+Germany,Electricity - Consumption by machinery,2020,29670.0
+Germany,Electricity - Consumption by machinery,2019,32933.0
+Germany,Electricity - Consumption by machinery,2018,34020.0
+Germany,Electricity - Consumption by machinery,2017,33908.0
+Germany,Electricity - Consumption by mining and quarrying,2020,1737.0
+Germany,Electricity - Consumption by mining and quarrying,2019,1789.0
+Germany,Electricity - Consumption by mining and quarrying,2018,1774.0
+Germany,Electricity - Consumption by mining and quarrying,2017,1768.0
+Germany,Electricity - Consumption by food and tobacco,2020,18427.0
+Germany,Electricity - Consumption by food and tobacco,2019,18677.0
+Germany,Electricity - Consumption by food and tobacco,2018,18962.0
+Germany,Electricity - Consumption by food and tobacco,2017,18639.0
+Germany,"Electricity - Consumption by paper, pulp and print",2020,19233.0
+Germany,"Electricity - Consumption by paper, pulp and print",2019,19788.0
+Germany,"Electricity - Consumption by paper, pulp and print",2018,20856.0
+Germany,"Electricity - Consumption by paper, pulp and print",2017,21406.0
+Germany,Electricity - Consumption by wood and wood products,2020,4738.0
+Germany,Electricity - Consumption by wood and wood products,2019,4565.0
+Germany,Electricity - Consumption by wood and wood products,2018,4668.0
+Germany,Electricity - Consumption by wood and wood products,2017,4817.0
+Germany,Electricity - Consumption by construction,2020,4953.0
+Germany,Electricity - Consumption by construction,2019,4818.0
+Germany,Electricity - Consumption by construction,2018,4657.0
+Germany,Electricity - Consumption by construction,2017,4136.0
+Germany,Electricity - Consumption by textile and leather,2020,1752.0
+Germany,Electricity - Consumption by textile and leather,2019,1946.0
+Germany,Electricity - Consumption by textile and leather,2018,2132.0
+Germany,Electricity - Consumption by textile and leather,2017,2178.0
+Germany,Electricity - Consumption not elsewhere specified (industry),2020,16090.0
+Germany,Electricity - Consumption not elsewhere specified (industry),2019,16936.0
+Germany,Electricity - Consumption not elsewhere specified (industry),2018,17515.0
+Germany,Electricity - Consumption not elsewhere specified (industry),2017,17653.0
+Germany,Electricity - Consumption by transport,2020,11137.0
+Germany,Electricity - Consumption by transport,2019,11605.0
+Germany,Electricity - Consumption by transport,2018,12087.0
+Germany,Electricity - Consumption by transport,2017,11957.0
+Germany,Electricity - Consumption by road,2020,445.0
+Germany,Electricity - Consumption by road,2019,336.0
+Germany,Electricity - Consumption by road,2018,227.0
+Germany,Electricity - Consumption by road,2017,157.0
+Germany,Electricity - Consumption by rail,2020,10692.0
+Germany,Electricity - Consumption by rail,2019,11269.0
+Germany,Electricity - Consumption by rail,2018,11860.0
+Germany,Electricity - Consumption by rail,2017,11800.0
+Germany,Electricity - Consumption by other,2020,257588.0
+Germany,Electricity - Consumption by other,2019,261643.0
+Germany,Electricity - Consumption by other,2018,266583.0
+Germany,Electricity - Consumption by other,2017,274769.0
+Germany,Electricity - Consumption by households,2020,127032.0
+Germany,Electricity - Consumption by households,2019,126539.0
+Germany,Electricity - Consumption by households,2018,127880.0
+Germany,Electricity - Consumption by households,2017,128200.0
+Germany,"Electricity - Consumption in agriculture, forestry and fishing",2020,5203.0
+Germany,"Electricity - Consumption in agriculture, forestry and fishing",2019,5130.0
+Germany,"Electricity - Consumption in agriculture, forestry and fishing",2018,5233.0
+Germany,"Electricity - Consumption in agriculture, forestry and fishing",2017,5090.0
+Germany,of which: fishing,2020,73.0
+Germany,of which: fishing,2019,71.0
+Germany,of which: fishing,2018,94.0
+Germany,Electricity - Consumption by commercial and public services,2020,125353.0
+Germany,Electricity - Consumption by commercial and public services,2019,129974.0
+Germany,Electricity - Consumption by commercial and public services,2018,133470.0
+Germany,Electricity - Consumption by commercial and public services,2017,141479.0
+Germany,"Electricity - total production, main activity",2020,520906.0
+Germany,"Electricity - total production, main activity",2019,553581.0
+Germany,"Electricity - total production, main activity",2018,585511.0
+Germany,"Electricity - total production, main activity",2017,596946.0
+Germany,Electricity - Gross demand,2020,516993.0
+Germany,Electricity - Gross demand,2019,535017.0
+Germany,Electricity - Gross demand,2018,548470.0
+Germany,Electricity - Gross demand,2017,558342.0
+Germany,"Electricity - total production, autoproducer",2020,51760.0
+Germany,"Electricity - total production, autoproducer",2019,53336.0
+Germany,"Electricity - total production, autoproducer",2018,54957.0
+Germany,"Electricity - total production, autoproducer",2017,56777.0

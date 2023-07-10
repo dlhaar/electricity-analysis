@@ -1,0 +1,149 @@
+year,transaction_groups,quantity_GWh,type
+2017,from combustible fuels,808572.0,production
+2017,from other sources,3402.0,production
+2017,geothermal,326.0,production
+2017,hydro,26155.0,production
+2017,nuclear,152648.0,production
+2017,solar,78802.0,production
+2017,wind,105693.0,production
+2018,from combustible fuels,770890.0,production
+2018,from other sources,3134.0,production
+2018,geothermal,356.0,production
+2018,hydro,23863.0,production
+2018,nuclear,152010.0,production
+2018,solar,86918.0,production
+2018,wind,109951.0,production
+2019,from combustible fuels,668428.0,production
+2019,from other sources,2974.0,production
+2019,geothermal,394.0,production
+2019,hydro,25671.0,production
+2019,nuclear,150142.0,production
+2019,solar,88766.0,production
+2019,wind,125894.0,production
+2020,from combustible fuels,601714.0,production
+2020,from other sources,3154.0,production
+2020,geothermal,462.0,production
+2020,hydro,24876.0,production
+2020,nuclear,128764.0,production
+2020,solar,97282.0,production
+2020,wind,132102.0,production
+2017,consumption by chemical and petrochemical,54219.0,consumption
+2017,consumption by commercial and public services,141479.0,consumption
+2017,consumption by construction,4136.0,consumption
+2017,consumption by food and tobacco,18639.0,consumption
+2017,consumption by households,128200.0,consumption
+2017,consumption by iron and steel,26695.0,consumption
+2017,consumption by machinery,33908.0,consumption
+2017,"consumption by manufacturing, construction and non-fuel industry",232227.0,consumption
+2017,consumption by mining and quarrying,1768.0,consumption
+2017,consumption by non-ferrous metals,16276.0,consumption
+2017,consumption by non-metallic minerals,12751.0,consumption
+2017,consumption by other,274769.0,consumption
+2017,"consumption by other manuf., const. and non-fuel ind.",151313.0,consumption
+2017,"consumption by paper, pulp and print",21406.0,consumption
+2017,consumption by rail,11800.0,consumption
+2017,consumption by road,157.0,consumption
+2017,consumption by textile and leather,2178.0,consumption
+2017,consumption by transport,11957.0,consumption
+2017,consumption by transport equipment,17781.0,consumption
+2017,consumption by wood and wood products,4817.0,consumption
+2017,"consumption in agriculture, forestry and fishing",5090.0,consumption
+2017,consumption not elsewhere specified (industry),17653.0,consumption
+2017,energy industries own use,12365.0,consumption
+2017,own use by briquetting plants,4852.0,consumption
+2017,own use by coal mines,503.0,consumption
+2017,own use by coke ovens,293.0,consumption
+2017,"own use by electricity, heat and chp plants",34670.0,consumption
+2017,own use by oil and gas extraction,609.0,consumption
+2017,own use by oil refineries,6108.0,consumption
+2017,own use by pump-storage plants,8252.0,consumption
+2018,consumption by chemical and petrochemical,53566.0,consumption
+2018,consumption by commercial and public services,133470.0,consumption
+2018,consumption by construction,4657.0,consumption
+2018,consumption by food and tobacco,18962.0,consumption
+2018,consumption by households,127880.0,consumption
+2018,consumption by iron and steel,26341.0,consumption
+2018,consumption by machinery,34020.0,consumption
+2018,"consumption by manufacturing, construction and non-fuel industry",230724.0,consumption
+2018,consumption by mining and quarrying,1774.0,consumption
+2018,consumption by non-ferrous metals,15785.0,consumption
+2018,consumption by non-metallic minerals,12701.0,consumption
+2018,consumption by other,266583.0,consumption
+2018,"consumption by other manuf., const. and non-fuel ind.",150817.0,consumption
+2018,"consumption by paper, pulp and print",20856.0,consumption
+2018,consumption by rail,11860.0,consumption
+2018,consumption by road,227.0,consumption
+2018,consumption by textile and leather,2132.0,consumption
+2018,consumption by transport,12087.0,consumption
+2018,consumption by transport equipment,17747.0,consumption
+2018,consumption by wood and wood products,4668.0,consumption
+2018,"consumption in agriculture, forestry and fishing",5233.0,consumption
+2018,consumption not elsewhere specified (industry),17515.0,consumption
+2018,energy industries own use,12415.0,consumption
+2018,own use by briquetting plants,4919.0,consumption
+2018,own use by coal mines,568.0,consumption
+2018,own use by coke ovens,320.0,consumption
+2018,"own use by electricity, heat and chp plants",34817.0,consumption
+2018,own use by oil and gas extraction,541.0,consumption
+2018,own use by oil refineries,6067.0,consumption
+2018,own use by pump-storage plants,8445.0,consumption
+2019,consumption by chemical and petrochemical,52708.0,consumption
+2019,consumption by commercial and public services,129974.0,consumption
+2019,consumption by construction,4818.0,consumption
+2019,consumption by food and tobacco,18677.0,consumption
+2019,consumption by households,126539.0,consumption
+2019,consumption by iron and steel,24372.0,consumption
+2019,consumption by machinery,32933.0,consumption
+2019,"consumption by manufacturing, construction and non-fuel industry",223267.0,consumption
+2019,consumption by mining and quarrying,1789.0,consumption
+2019,consumption by non-ferrous metals,15265.0,consumption
+2019,consumption by non-metallic minerals,12492.0,consumption
+2019,consumption by other,261643.0,consumption
+2019,"consumption by other manuf., const. and non-fuel ind.",146187.0,consumption
+2019,"consumption by paper, pulp and print",19788.0,consumption
+2019,consumption by rail,11269.0,consumption
+2019,consumption by road,336.0,consumption
+2019,consumption by textile and leather,1946.0,consumption
+2019,consumption by transport,11605.0,consumption
+2019,consumption by transport equipment,16978.0,consumption
+2019,consumption by wood and wood products,4565.0,consumption
+2019,"consumption in agriculture, forestry and fishing",5130.0,consumption
+2019,consumption not elsewhere specified (industry),16936.0,consumption
+2019,energy industries own use,11028.0,consumption
+2019,own use by briquetting plants,4176.0,consumption
+2019,own use by coal mines,57.0,consumption
+2019,own use by coke ovens,280.0,consumption
+2019,"own use by electricity, heat and chp plants",31053.0,consumption
+2019,own use by oil and gas extraction,540.0,consumption
+2019,own use by oil refineries,5975.0,consumption
+2019,own use by pump-storage plants,8180.0,consumption
+2020,consumption by chemical and petrochemical,51129.0,consumption
+2020,consumption by commercial and public services,125353.0,consumption
+2020,consumption by construction,4953.0,consumption
+2020,consumption by food and tobacco,18427.0,consumption
+2020,consumption by households,127032.0,consumption
+2020,consumption by iron and steel,22203.0,consumption
+2020,consumption by machinery,29670.0,consumption
+2020,"consumption by manufacturing, construction and non-fuel industry",211089.0,consumption
+2020,consumption by mining and quarrying,1737.0,consumption
+2020,consumption by non-ferrous metals,15074.0,consumption
+2020,consumption by non-metallic minerals,12174.0,consumption
+2020,consumption by other,257588.0,consumption
+2020,"consumption by other manuf., const. and non-fuel ind.",137757.0,consumption
+2020,"consumption by paper, pulp and print",19233.0,consumption
+2020,consumption by rail,10692.0,consumption
+2020,consumption by road,445.0,consumption
+2020,consumption by textile and leather,1752.0,consumption
+2020,consumption by transport,11137.0,consumption
+2020,consumption by transport equipment,13909.0,consumption
+2020,consumption by wood and wood products,4738.0,consumption
+2020,"consumption in agriculture, forestry and fishing",5203.0,consumption
+2020,consumption not elsewhere specified (industry),16090.0,consumption
+2020,energy industries own use,10240.0,consumption
+2020,own use by briquetting plants,3647.0,consumption
+2020,own use by coal mines,45.0,consumption
+2020,own use by coke ovens,257.0,consumption
+2020,"own use by electricity, heat and chp plants",27772.0,consumption
+2020,own use by oil and gas extraction,501.0,consumption
+2020,own use by oil refineries,5790.0,consumption
+2020,own use by pump-storage plants,8872.0,consumption

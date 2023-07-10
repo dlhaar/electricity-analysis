@@ -1,0 +1,5 @@
+data:
+  undata_raw: "../data/raw/UNdata.csv"
+  undata_clean: "../data/cleaned/undata_cleaned.csv"
+  production: "..data/cleaned/production.csv"
+  undata_for_analysis: "../data/cleaned/undata_for_analysis.csv"

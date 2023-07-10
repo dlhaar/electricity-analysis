@@ -1,0 +1,29 @@
+year,transaction_groups,quantity_GWh,type
+2017,from combustible fuels,808572.0,production
+2017,from other sources,3402.0,production
+2017,geothermal,326.0,production
+2017,hydro,26155.0,production
+2017,nuclear,152648.0,production
+2017,solar,78802.0,production
+2017,wind,105693.0,production
+2018,from combustible fuels,770890.0,production
+2018,from other sources,3134.0,production
+2018,geothermal,356.0,production
+2018,hydro,23863.0,production
+2018,nuclear,152010.0,production
+2018,solar,86918.0,production
+2018,wind,109951.0,production
+2019,from combustible fuels,668428.0,production
+2019,from other sources,2974.0,production
+2019,geothermal,394.0,production
+2019,hydro,25671.0,production
+2019,nuclear,150142.0,production
+2019,solar,88766.0,production
+2019,wind,125894.0,production
+2020,from combustible fuels,601714.0,production
+2020,from other sources,3154.0,production
+2020,geothermal,462.0,production
+2020,hydro,24876.0,production
+2020,nuclear,128764.0,production
+2020,solar,97282.0,production
+2020,wind,132102.0,production

@@ -1,0 +1,14 @@
+#working requirements file, with jupyter
+#run pip-compile then pip-sync to update
+
+jupyter
+jupyterlab
+
+matplotlib.pyplot
+
+pandas
+seaborn
+
+
+
+
