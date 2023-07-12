@@ -1,14 +1,7 @@
 data:
-  undata_raw: "../data/raw/UNdata.csv"
-  undata_clean: "../data/cleaned/undata_cleaned.csv"
-  production: "..data/cleaned/production.csv"
-  undata_for_analysis: "../data/cleaned/undata_for_analysis.csv"
-  smard_production: "../data/raw/production_smard_2017_2022.csv"
-  smard_consumption: "../data/raw/consumption_smard_2017_2022.csv"
+  
   smard_consumption_month: "../data/raw/smard_consumption_month.csv"
   smard_generation_month: "../data/raw/smard_generation_month.csv"
   smard_clean: "../data/cleaned/smard_clean.csv"
-  smard_production_clean: "../data/cleaned/smard_prod_clean.csv"
-  smard_consumption_clean: "../data/cleaned/smard_consumption_clean.csv"
   average_prices: "../data/raw/average_electricity_price_household.csv"
   aveage_prices_clean: "../data/cleaned/average_prices_clean.csv"

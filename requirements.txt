@@ -164,7 +164,9 @@ markupsafe==2.1.3
     #   jinja2
     #   nbconvert
 matplotlib==3.7.2
-    # via seaborn
+    # via
+    #   -r requirements.in
+    #   seaborn
 matplotlib-inline==0.1.6
     # via
     #   ipykernel
@@ -204,6 +206,7 @@ numpy==1.25.1
     #   contourpy
     #   matplotlib
     #   pandas
+    #   scipy
     #   seaborn
 overrides==7.3.1
     # via jupyter-server
@@ -302,6 +305,8 @@ rpds-py==0.8.10
     # via
     #   jsonschema
     #   referencing
+scipy==1.11.1
+    # via -r requirements.in
 seaborn==0.12.2
     # via -r requirements.in
 send2trash==1.8.2

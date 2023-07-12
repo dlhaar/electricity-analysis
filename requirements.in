@@ -4,9 +4,10 @@
 jupyter
 jupyterlab
 
-matplotlib.pyplot
+matplotlib
 
 pandas
+scipy
 seaborn
 
 
