@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Setting up the environment](#setting_up_environment)
+2. [To run the jupyter notebooks](#setting_up_environment)
 	1. [Prerequisites](#prereqs)
 3. [Definitions](#definitions)
-4. [Analysis in Tableau]
+4. [Analysis in Tableau](#analysis)
 
 ## Introduction
 This project aims to review electricity generation and consumption in Germany from 2017 through 2022.
