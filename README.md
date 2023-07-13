@@ -4,8 +4,8 @@
 1. [Introduction](#introduction)
 2. [To run the jupyter notebooks](#To_run_jupyter_notebooks)
 	1. [Prerequisites](#prerequisites)
-3. [Definitions](#Definitions)
-4. [Analysis in Tableau](#Analysis_in_Tableau)
+	2. [Steps](#steps)
+3. [Analysis in Tableau](#Analysis_in_Tableau)
 
 ## Introduction
 This project aims to review electricity generation and consumption in Germany from 2017 through 2022.
@@ -24,13 +24,13 @@ The data for this project was retrieved from [SMARD](https://www.smard.de/en) an
 
 ### Prerequisites
 To run the jupyter notebooks, you should have the following installed:
-- create an environment (e.g. venv)
+- an environment (e.g. venv)
 - jupyter lab
 
 ### Steps
 1. Fork and clone the git repository
 2. Navigate to the project folder and activate the environment 
-3. On the terminal type:
+3. In the terminal type:
 
   ```shell
   pip install -r requirements.txt
@@ -39,4 +39,10 @@ To run the jupyter notebooks, you should have the following installed:
 
 
 ## Analysis in Tableau
+An analysis of the data can be found in Tableau Public [here](https://public.tableau.com/app/profile/deborah.haar/viz/smard_electricity_germany/ElectricitygenerationandconsumptioninGermany2017-2022)
 
+Sample of findings:
+- Between 2017 and 2022, wind and solar are gaining share of the total electricity market. In 2022, they made up 36.6% of the market, up from 25.4% in 2017.
+- Germany has been phasing out its nuclear plants (the last ones were shut in April 2023) and we see a sharp decrease in output from them beginning 2021.
+- Production of electricity has been in a slow decline. 2020 and 2022 saw the lowest production out of the six years.
+- Residential prices have been steadily increasing.
