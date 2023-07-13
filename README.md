@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [To run the jupyter notebooks](#setting_up_environment)
-	1. [Prerequisites](#prereqs)
-3. [Definitions](#definitions)
-4. [Analysis in Tableau](#analysis)
+2. [To run the jupyter notebooks](#To_run_jupyter_notebooks)
+	1. [Prerequisites](#prerequisites)
+3. [Definitions](#Definitions)
+4. [Analysis in Tableau](#Analysis_in_Tableau)
 
 ## Introduction
 This project aims to review electricity generation and consumption in Germany from 2017 through 2022.
@@ -24,13 +24,18 @@ The data for this project was retrieved from [SMARD](https://www.smard.de/en) an
 
 ### Prerequisites
 To run the jupyter notebooks, you should have the following installed:
-- venv environment
+- create an environment (e.g. venv)
 - jupyter lab
 
 ### Steps
 1. Fork and clone the git repository
-2. Navigate to the project folder and activate the environment with `source venv/bin/activate`
-3. Launch `jupyter lab`
+2. Navigate to the project folder and activate the environment 
+3. On the terminal type:
+
+  ```shell
+  pip install -r requirements.txt
+  ```
+4. Launch `jupyter lab`
 
 
 ## Analysis in Tableau
