@@ -42,7 +42,7 @@ To run the jupyter notebooks, you should have the following installed:
 An analysis of the data can be found in Tableau Public [here](https://public.tableau.com/app/profile/deborah.haar/viz/smard_electricity_germany/ElectricitygenerationandconsumptioninGermany2017-2022)
 
 Sample of findings:
-- Between 2017 and 2022, wind and solar are gaining share of the total electricity market. In 2022, they made up 36.6% of the market, up from 25.4% in 2017.
+- Between 2017 and 2022, wind and solar gained share of the total electricity market. In 2022, they made up 36.6% of the market, up from 25.4% in 2017.
 - Germany has been phasing out its nuclear plants (the last ones were shut in April 2023) and we see a sharp decrease in output from them beginning 2021.
-- Production of electricity has been in a slow decline. 2020 and 2022 saw the lowest production out of the six years.
+- 2020 and 2022 saw the lowest production totals out of the six years.
 - Average residential prices for electricity have been steadily increasing.
