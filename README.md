@@ -1,4 +1,4 @@
-# German Electricy Generation and Consumption Analysis
+# Electricy Generation and Consumption in Germany - Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -45,4 +45,4 @@ Sample of findings:
 - Between 2017 and 2022, wind and solar are gaining share of the total electricity market. In 2022, they made up 36.6% of the market, up from 25.4% in 2017.
 - Germany has been phasing out its nuclear plants (the last ones were shut in April 2023) and we see a sharp decrease in output from them beginning 2021.
 - Production of electricity has been in a slow decline. 2020 and 2022 saw the lowest production out of the six years.
-- Residential prices have been steadily increasing.
+- Average residential prices for electricity have been steadily increasing.
