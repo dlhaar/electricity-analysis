@@ -1,4 +1,4 @@
-# Electricy Generation and Consumption in Germany - Analysis
+# Electricity Generation and Consumption in Germany - Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
